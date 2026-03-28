@@ -40,3 +40,13 @@ if (valor1 == valor2)
     MessageBox.Show("Os numeros são iguais");
 }
 ```
+<img width="1280" height="788" alt="image" src="https://github.com/user-attachments/assets/1f1f956e-8b51-4504-9125-459238d3fa46" />
+
+### Tabelinha
+
+|     isto é uma tabela inclusive     |
+|:-----------------------------------:|
+|     não sei oque insesir aqui       |
+|              nem aqui               |
+
+
